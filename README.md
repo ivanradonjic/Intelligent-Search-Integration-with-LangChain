@@ -1,0 +1,2 @@
+# Intelligent-Search-Integration-with-LangChain
+Intelligent Search Integration with LangChain** is a project designed to enhance technical query automation by integrating LangChain's language model capabilities with specialized search tools like TavilySearch. This system enables seamless interaction between an LLM (Language Learning Model) and external tools to streamline and optimize the retrieval of technical information, particularly in coding and software development contexts.
